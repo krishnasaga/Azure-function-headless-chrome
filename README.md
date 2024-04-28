@@ -1,4 +1,4 @@
-Azure Function Headless Chrome
+# Azure Function Headless Chrome
 
 <img width="833" alt="image" src="https://github.com/krishnasaga/Azure-function-headless-chrome/assets/13312112/7e01a2d7-abdc-4c71-866f-18157101b2e6">
 
